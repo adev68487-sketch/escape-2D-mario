@@ -1425,5 +1425,3 @@ function main() {
 }
 
 onload = preload;
-
-    
